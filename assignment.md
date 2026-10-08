@@ -32,17 +32,27 @@ Break into small groups and answer the following. Use your knowledge of Structur
 * **Unstructured Data:** The movie thumbnails (images), the movie plot summary (text), the video files themselves.  
   * *Question: How might Netflix use the **Unstructured** data (thumbnails) to trick you into watching a movie?*
 
+  > A user who watches a lot of dark crime thrillers might see a dark, shadowy, high-contrast thumbnail for a drama. On the other hand, a user who prefers mainstream action blockbusters might see a different thumbnail for the exact same film featuring an explosion, a car chase, or an intense fight scene.
+
+---
+
 ### **Part 3: The Algorithm (Analysis)**
 
 * If User A watches "Breaking Bad" and "Better Call Saul".  
 * And User B watches "Breaking Bad".  
 * *What will the algorithm recommend to User B? Why?*
 
+> It will suggest "Better Call Saul". The algorithm looks across millions of users to find patterns in what content is watched together. It detects that users who watch Breaking Bad have a very high probability of also watching Better Call Saul. Since User A moved on to "Better Call Saul" after "Breaking Bad", the system predicts that User B — having the same foundational interest — may also watch "Better Call Saul".
+
+---
+
 ### **Part 4: Ethics (The "Bubble")**
 
 * *Is it ethical for an algorithm to only show you things it knows you will like? Does this create a 'content bubble' that limits your exposure to new ideas?*
 
-## **💡Please Share Your Answers & Thoughts in Discord💡**
+> Ethics depend on the type of content being filtered and the intent behind the system. For Netflix, content personalisation is generally seen as benign or even beneficial. Recommendation systems save users' time, improve convenience, and help users find entertainment that they actually enjoy out of millions of choices. However, over-indexing on past behavior can trap users in a comfort zone — preventing them from discovering new contents or genres which they may have loved if given the chance.
+
+---
 
 <details>
 <summary>💡 Discussion pointers (open after you've tried)</summary>
