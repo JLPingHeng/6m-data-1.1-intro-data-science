@@ -52,8 +52,7 @@ Break into small groups and answer the following. Use your knowledge of Structur
 
 > Ethics depend on the type of content being filtered and the intent behind the system. For Netflix, content personalisation is generally seen as benign or even beneficial. Recommendation systems save users' time, improve convenience, and help users find entertainment that they actually enjoy out of millions of choices. However, over-indexing on past behavior can trap users in a comfort zone — preventing them from discovering new contents or genres which they may have loved if given the chance.
 
-> Netflix could intentionally introduce "randomness" into its content suggestions so that users are exposed to novel ideas and diverse perspectives.
-> There could be algorithmic transparency. This could give users explicit controls to reset their recommendation history and adjust their preference weights.
+> Netflix could intentionally introduce "randomness" into its content suggestions so that users are exposed to novel ideas and diverse perspectives. Also, there could be algorithmic transparency. This could give users explicit controls to reset their recommendation history and adjust their preference weights.
 
 ---
 
